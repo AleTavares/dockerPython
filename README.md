@@ -5,7 +5,7 @@ Nesta Oficina  estarei ensinando os conceitos por trás do Docker e como utiliza
 
 ## Pré Requisitos
 - Docker Instalado ( https://www.docker.com/products/docker-desktop/ )
-- Cli do Git Instalado
+- Cli do Git Instalado( https://github.com/git-guides/install-git )
 
 ## Como Utilizar
 - Clone o Repositório
