@@ -1,0 +1,15 @@
+version: '3.8'
+name: containers-python
+
+services:
+  python:
+    container_name: compPython
+    build: .
+    image: oficinaDocker
+    volumes:
+      - ./jobs:/app/jobs
+    restart: always
+    tty: true
+
+volumes:
+  logs:
